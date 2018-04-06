@@ -1,0 +1,12 @@
+body {
+    text-align: center;
+    background-image: url("http://img1.ak.crunchyroll.com/i/spire2/91552bd85d936ae980f9a91aab10a96b1501895909_full.jpg");
+  }
+  #wrapper {
+    width: 960px;
+    min-height: 80%;
+    box-sizing: border-box;
+    padding: 5% 0;
+    margin: 5% auto;
+    background-color: #fff17a;
+  }
